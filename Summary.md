@@ -1,0 +1,5 @@
+Explored how SQL injections exploit vulnerabilities in the interfaces between web applications and database servers. We used SQL injection vulnerabilities to demonstrate the damage that can be caused, and how to defend against similar attacks.
+
+We connected to the website's performed a SQL Injection Attack on SELECT Statement. We perform this attack from different locations including the webpage, command line, and an attempt by appending a new SQL statement. Each of these different locations for attack taught us about a different area of expertise. For example, when attacking from the command line we had to convert the text to be successfully accepted by the command line interface.
+
+Lastly, we performed the SQL injection attack on the UPDATE statement. We ran SQL injection attacks to modify Alice's salary and another individual's salary and password. Task three illustrated the devastating impact of SQL injections on databases and webpages. However, in Task four, we tested and confirmed that the previously used SQL injection attacks were harmless when using prepared statements as a countermeasure.
